@@ -25,4 +25,22 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 August 2026 - To: 27 August 2026
+
+Total Time: 28 hrs 51 mins
+
+Python        5 hrs 55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+Markdown      5 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+TypeScript    5 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+C#            4 hrs 31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Other         4 hrs 24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+HTML          1 hr 40 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+CSS           1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+JSON          1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+PHP           1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Bash          55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+```
+
 <!--END_SECTION:waka-->

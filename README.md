@@ -27,20 +27,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 16 September 2026
+From: 07 June 2024 - To: 17 September 2026
 
-Total Time: 1,826 hrs 50 mins
+Total Time: 1,831 hrs 10 mins
 
-TypeScript                         1,284 hrs 33 mins     █████████████████▒░░░░░░░   69.22 %
-CSS                                104 hrs 33 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JavaScript                         91 hrs 19 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Markdown                           84 hrs 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JSON                               61 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TypeScript                         1,288 hrs             █████████████████▒░░░░░░░   69.24 %
+CSS                                104 hrs 33 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+JavaScript                         91 hrs 25 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Markdown                           84 hrs 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+JSON                               61 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 mcfunction                         29 hrs 47 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Other                              28 hrs 57 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 C#                                 27 hrs 19 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 HTML                               26 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-C                                  18 hrs 39 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+C                                  18 hrs 39 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
